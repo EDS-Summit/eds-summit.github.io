@@ -31,7 +31,7 @@ Participant attendance is not limited by sector, discipline, background, or care
 #### **February 7**
 
 |           |                                                                       |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | 8:30      | Breakfast & Welcome                                                   |
 | Session 1 | Panel: Entryways to Environmental Data Science                        |
 | Session 2 | Keynote Speaker                                                       |
@@ -66,15 +66,15 @@ Students & Early Career Researchers can purchase a discounted registration at \$
 
 # Location & Lodging
 
-The Summit will take place at the [Cabrillo Arts Pavilion](https://cabrillopavilion.santabarbaraca.gov/), situated adjacent to the beach.
-
 ![](img/2M9A9814-Pano.jpg){fig-align="center"}
+
+The Summit will take place at the [Cabrillo Arts Pavilion](https://cabrillopavilion.santabarbaraca.gov/), situated adjacent to the beach.
 
 The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-monte-hotel/sbars) is directly across the street from the Pavilion and will be the most convenient hotel for attendees. There are additional hotels within walking distance from the Pavilion.
 
 ------------------------------------------------------------------------
 
-### COVID-19 Policies for the Summit
+## COVID-19
 
 The Environmental Data Science Summit will be held in person. Weather permitting, we will encourage outdoor interactions whenever possible. In order to gather safely, all participants must follow these policies:
 
@@ -85,7 +85,7 @@ Policies are subject to change based on UCSB guidelines, local, state or nationa
 
 ------------------------------------------------------------------------
 
-### Steering Committee
+**Steering Committee**
 
 [Ben Halpern](https://www.nceas.ucsb.edu/about-us/our-people) \| [Elizabeth Wolkovich](https://biodiversity.ubc.ca/people/faculty/elizabeth-m-wolkovich) \| [Noam Ross](https://www.noamross.net/) \| [Wendy Guan](https://scholar.harvard.edu/wendy-guan/home) \| [Amanda Whitmire](https://library.stanford.edu/people/thalassa) \| [Susan Shingledecker](https://www.esipfed.org/about/staff/susan-shingledecker) \| [Dawn Wright](https://dusk.geo.orst.edu/index.html) \| [Dorris Scott](https://dscott.netlify.app/) \| [Stephanie Carroll](https://igp.arizona.edu/person/stephanie-russo-carroll-drph-mph) \| [Leah Wasser](https://www.leahwasser.com/)
 
@@ -95,4 +95,4 @@ A Research Coordination Network, hosted by the [National Center for Ecological A
 
 [**Sign up to receive information about the Summit**](https://landing.mailerlite.com/webforms/landing/a5o1r3)
 
-[![](img/NCEAS-full%20logo-4C.png){fig-align="center" width="314"}](nceas.ucsb.edu)
+![](img/NCEAS-full%20logo-4C.png){fig-align="center" width="314"}
