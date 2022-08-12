@@ -2,7 +2,7 @@
 title: "An annual summit to build the environmental data science community"
 ---
 
-February 7-8, 2023 \| Santa Barbara, California    
+February 7-8, 2023 \| Santa Barbara, California\
 Theme: Harnessing Diversity in Environmental Data Science
 
 ### ![](img/eds-banner-v1.jpeg)
@@ -30,7 +30,7 @@ A more detailed agenda will be shared closer to the meeting.
 #### **February 7**
 
 |           |                                                                       |
-|-----------|-----------------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | 8:30      | Breakfast & Welcome                                                   |
 | Session 1 | Panel: Entryways to Environmental Data Science                        |
 | Session 2 | Keynote Speaker                                                       |
