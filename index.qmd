@@ -1,11 +1,14 @@
 ---
-title: "An annual summit to build the environmental data science community"
+title: ""
 ---
 
-February 7-8, 2023 \| Santa Barbara, California\
-Theme: Harnessing Diversity in Environmental Data Science
+![](img/eds-banner-date-location.jpg){fig-align="center"}
 
-### ![](img/eds-banner-v1.jpeg)
+# **February 7 & 8, 2023 \| Santa Barbara, CA**
+
+Hosted by the [**National Center for Ecological Analysis and Synthesis**](nceas.ucsb.edu)
+
+------------------------------------------------------------------------
 
 Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to investigating and answering environmental questions with modern data science tools. The field is broad, diverse, and expanding. This Summit aims to bring together all types of environmental data scientists to lay the foundation for a more cohesive and collaborative transdisciplinary community.
 
@@ -13,7 +16,7 @@ The goals of the Summit are to **build community** and **foster collaboration** 
 
 ------------------------------------------------------------------------
 
-### Participation
+# Participation
 
 **Applications have closed.**
 
@@ -23,14 +26,12 @@ Participant attendance is not limited by sector, discipline, background, or care
 
 ------------------------------------------------------------------------
 
-### Agenda
-
-A more detailed agenda will be shared closer to the meeting.
+# Agenda
 
 #### **February 7**
 
 |           |                                                                       |
-|---------------|---------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | 8:30      | Breakfast & Welcome                                                   |
 | Session 1 | Panel: Entryways to Environmental Data Science                        |
 | Session 2 | Keynote Speaker                                                       |
@@ -49,9 +50,11 @@ A more detailed agenda will be shared closer to the meeting.
 | 1:30  | Breakout group work |
 | 5:00  | Closing             |
 
+*A more detailed agenda will be shared closer to the meeting*
+
 ------------------------------------------------------------------------
 
-### Registration
+# Registration
 
 The Summit registration fee is \$225.
 
@@ -61,7 +64,7 @@ Students & Early Career Researchers can purchase a discounted registration at \$
 
 ------------------------------------------------------------------------
 
-### Location & Lodging
+# Location & Lodging
 
 The Summit will take place at the [Cabrillo Arts Pavilion](https://cabrillopavilion.santabarbaraca.gov/), situated adjacent to the beach.
 
@@ -71,7 +74,7 @@ The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-mon
 
 ------------------------------------------------------------------------
 
-#### COVID-19 Policies for the Summit
+### COVID-19 Policies for the Summit
 
 The Environmental Data Science Summit will be held in person. Weather permitting, we will encourage outdoor interactions whenever possible. In order to gather safely, all participants must follow these policies:
 
@@ -91,3 +94,5 @@ Policies are subject to change based on UCSB guidelines, local, state or nationa
 A Research Coordination Network, hosted by the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) and funded by the National Science Foundation.
 
 [**Sign up to receive information about the Summit**](https://landing.mailerlite.com/webforms/landing/a5o1r3)
+
+[![](img/NCEAS-full%20logo-4C.png){fig-align="center" width="314"}](nceas.ucsb.edu)
