@@ -2,18 +2,17 @@ project:
   type: website
 
 website:
-  title: "eds-summit-2023"
+  title: "Environmental Data Science Summit"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

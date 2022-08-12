@@ -1,11 +1,93 @@
 ---
-title: "eds-summit-2023"
+title: "An annual summit to build the environmental data science community"
 ---
 
-This is a Quarto website.
+February 7-8, 2023 \| Santa Barbara, California    
+Theme: Harnessing Diversity in Environmental Data Science
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### ![](img/eds-banner-v1.jpeg)
 
-```{r}
-1 + 1
-```
+Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to investigating and answering environmental questions with modern data science tools. The field is broad, diverse, and expanding. This Summit aims to bring together all types of environmental data scientists to lay the foundation for a more cohesive and collaborative transdisciplinary community.
+
+The goals of the Summit are to **build community** and **foster collaboration** within the Environmental Data Science community. This year's theme is **Harnessing Diversity in Environmental Data Science**.
+
+------------------------------------------------------------------------
+
+### Participation
+
+**Applications have closed.**
+
+Participation is limited to 100 attendees, with an application required. We are able to provide funding for up to 60 participants. Funding will cover travel to Santa Barbara, lodging, and the Summit registration fee. In order to attend you must first apply. Applications will be used both to select participation and award funding.
+
+Participant attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about our environment and how we interact with it, this Summit is for you!
+
+------------------------------------------------------------------------
+
+### Agenda
+
+A more detailed agenda will be shared closer to the meeting.
+
+#### **February 7**
+
+|           |                                                                       |
+|-----------|-----------------------------------------------------------------------|
+| 8:30      | Breakfast & Welcome                                                   |
+| Session 1 | Panel: Entryways to Environmental Data Science                        |
+| Session 2 | Keynote Speaker                                                       |
+| Session 3 | Ethics & Fairness in Environmental Data Science (Dr. Jessica Santana) |
+| 12:15     | Lunch                                                                 |
+| 1:30      | Poster Working Session                                                |
+| 5:00      | Social hour & Dinner                                                  |
+
+#### **February 8**
+
+|       |                     |
+|-------|---------------------|
+| 9:00  | Welcome             |
+| 9:15  | Breakout group work |
+| 12:30 | Lunch               |
+| 1:30  | Breakout group work |
+| 5:00  | Closing             |
+
+------------------------------------------------------------------------
+
+### Registration
+
+The Summit registration fee is \$225.
+
+Students & Early Career Researchers can purchase a discounted registration at \$175.
+
+*Registration fees will be waived for up to 60 participants that are selected to receive funding.*
+
+------------------------------------------------------------------------
+
+### Location & Lodging
+
+The Summit will take place at the [Cabrillo Arts Pavilion](https://cabrillopavilion.santabarbaraca.gov/), situated adjacent to the beach.
+
+![](img/2M9A9814-Pano.jpg){fig-align="center"}
+
+The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-monte-hotel/sbars) is directly across the street from the Pavilion and will be the most convenient hotel for attendees. There are additional hotels within walking distance from the Pavilion.
+
+------------------------------------------------------------------------
+
+#### COVID-19 Policies for the Summit
+
+The Environmental Data Science Summit will be held in person. Weather permitting, we will encourage outdoor interactions whenever possible. In order to gather safely, all participants must follow these policies:
+
+-   Must show proof of vaccination OR a negative COVID test within 72 hours of February 8th
+-   Must wear masks when indoors (except when eating or drinking)
+
+Policies are subject to change based on UCSB guidelines, local, state or national ordinances, and/or the discretion of event organizers.
+
+------------------------------------------------------------------------
+
+### Steering Committee
+
+[Ben Halpern](https://www.nceas.ucsb.edu/about-us/our-people) \| [Elizabeth Wolkovich](https://biodiversity.ubc.ca/people/faculty/elizabeth-m-wolkovich) \| [Noam Ross](https://www.noamross.net/) \| [Wendy Guan](https://scholar.harvard.edu/wendy-guan/home) \| [Amanda Whitmire](https://library.stanford.edu/people/thalassa) \| [Susan Shingledecker](https://www.esipfed.org/about/staff/susan-shingledecker) \| [Dawn Wright](https://dusk.geo.orst.edu/index.html) \| [Dorris Scott](https://dscott.netlify.app/) \| [Stephanie Carroll](https://igp.arizona.edu/person/stephanie-russo-carroll-drph-mph) \| [Leah Wasser](https://www.leahwasser.com/)
+
+------------------------------------------------------------------------
+
+A Research Coordination Network, hosted by the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) and funded by the National Science Foundation.
+
+[**Sign up to receive information about the Summit**](https://landing.mailerlite.com/webforms/landing/a5o1r3)
