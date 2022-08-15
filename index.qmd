@@ -6,7 +6,7 @@ title: ""
 
 # **February 7 & 8, 2023 \| Santa Barbara, CA**
 
-Hosted by the [**National Center for Ecological Analysis and Synthesis**](nceas.ucsb.edu)
+Hosted by the [**National Center for Ecological Analysis and Synthesis**](https://www.nceas.ucsb.edu/)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Participant attendance is not limited by sector, discipline, background, or care
 #### **February 7**
 
 |           |                                                                       |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | 8:30      | Breakfast & Welcome                                                   |
 | Session 1 | Panel: Entryways to Environmental Data Science                        |
 | Session 2 | Keynote Speaker                                                       |
