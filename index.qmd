@@ -18,7 +18,7 @@ The goals of the Summit are to **build community** and **foster collaboration** 
 
 # Participation
 
-[**Applications are open**](https://forms.gle/nVakb6XNSUVkpyEz6) **- apply by October 28th!**
+**Applications are closed**.
 
 Participation is limited to 100 attendees, with an application required. We are able to provide funding for up to 60 participants. Funding will cover travel to Santa Barbara, lodging, and the Summit registration fee. In order to attend you must first apply. Applications will be used both to select participation and award funding.
 
@@ -31,7 +31,7 @@ Participant attendance is not limited by sector, discipline, background, or care
 #### **February 7**
 
 |           |                                                                                                    |
-|---------------------|---------------------------------------------------|
+|----------------------|--------------------------------------------------|
 | 8:30      | Breakfast & Welcome                                                                                |
 | Session 1 | Panel: Entryways to Environmental Data Science                                                     |
 | Session 2 | Environmental Data Justice ([Dr. Lourdes Vera](https://lourdesvera.github.io/))                    |
