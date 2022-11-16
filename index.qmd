@@ -29,16 +29,15 @@ Participant attendance is not limited by sector, discipline, background, or care
 # Agenda
 
 #### **February 7**
-
-|           |                                                                                                    |
-|----------------------|--------------------------------------------------|
-| 8:30      | Breakfast & Welcome                                                                                |
-| Session 1 | Panel: Entryways to Environmental Data Science                                                     |
-| Session 2 | Environmental Data Justice ([Dr. Lourdes Vera](https://lourdesvera.github.io/))                    |
-| Session 3 | Ethics & Fairness in Environmental Data Science ([Dr. Jessica Santana](https://www.jsantana.org/)) |
-| 12:15     | Lunch                                                                                              |
-| 1:30      | Poster Working Session                                                                             |
-| 5:00      | Social hour & Dinner                                                                               |
+|       |                     |
+|-----------------------|-------------------------------------------------|
+| 8:30      | Breakfast & Welcome                                                                                              |
+| Session 1 | Panel: Entryways to Environmental Data Science                                                                   |
+| Session 2 | Environmental Data Justice ([Dr. Lourdes Vera](https://lourdesvera.github.io/))                                  |
+| Session 3 | Ethics & Bias in Environmental Data Science ([Dr. Dena Montague](https://gejp.es.ucsb.edu/people/dena-montague)) |
+| 12:15     | Lunch                                                                                                            |
+| 1:30      | Poster Working Session                                                                                           |
+| 5:00      | Social hour & Dinner                                                                                             |
 
 #### **February 8**
 
