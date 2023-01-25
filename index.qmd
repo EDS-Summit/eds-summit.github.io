@@ -29,37 +29,65 @@ Participant attendance is not limited by sector, discipline, background, or care
 # Agenda
 
 #### **February 7**
-|       |                     |
-|-----------------------|-------------------------------------------------|
-| 8:30      | Breakfast & Welcome                                                                                              |
-| Session 1 | Panel: Entryways to Environmental Data Science                                                                   |
-| Session 2 | Environmental Data Justice ([Dr. Lourdes Vera](https://lourdesvera.github.io/))                                  |
-| Session 3 | Ethics & Bias in Environmental Data Science ([Dr. Dena Montague](https://gejp.es.ucsb.edu/people/dena-montague)) |
-| 12:15     | Lunch                                                                                                            |
-| 1:30      | Poster Working Session                                                                                           |
-| 5:00      | Social hour & Dinner                                                                                             |
+
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8:30    | **Registration & Breakfast**                                                                                                                                   |
+|         |                                                                                                                                                                |
+|         | *Check in at the lobby of the Cabrillo Pavilion and enjoy a light continental breakfast to start the day.*                                                     |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9:00    | **Welcome** (Ben Halpern)                                                                                                                                      |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9:15    | **Panel: Entryways to Environmental Data Science** \                                                                                                           |
+|         | Noam Ross, Dorris Scott, Wendy Guan & Leah Wasser                                                                                                              |
+|         |                                                                                                                                                                |
+|         | Moderated by Dawn Wright                                                                                                                                       |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10:00   | **Speed Mingling Activity**                                                                                                                                    |
+|         |                                                                                                                                                                |
+|         | *Facilitated interactive to know each other!*                                                                                                                  |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10:30   | **Coffee Break**                                                                                                                                               |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10:45   | **Environmental Data Justice** ([Dr. Lourdes Vera](https://lourdesvera.github.io/))                                                                            |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 11:15   | **Lakota Data Sovereignty and Community-Based Research** (Elisha Yellow Thunder)                                                                               |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12:00   | **Lunch**                                                                                                                                                      |
+|         |                                                                                                                                                                |
+|         | *Provided on site - multiple options for dietary restrictions*                                                                                                 |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1:30    | 1-2-4-all                                                                                                                                                      |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2:30    | Group poster creation                                                                                                                                          |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3:15    | **Coffee break**                                                                                                                                               |
+|         |                                                                                                                                                                |
+|         | *Use this time to hang your posters up around the room*                                                                                                        |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3:30    | **Idea flash talks**                                                                                                                                           |
+|         |                                                                                                                                                                |
+|         | *Each group has 1 minute to present their idea to the group. Afterwards, each participant will be able to vote on the ideas they want to work on during Day 2* |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4:30    | **Day 1 wrap up** (Ben Halpern)                                                                                                                                |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5:00    | **Sunset cocktail hour**                                                                                                                                       |
+|         |                                                                                                                                                                |
+|         | *Stick around for drinks during sun*                                                                                                                           |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6:00    | **Fajita Dinner**                                                                                                                                              |
+|         |                                                                                                                                                                |
+|         | *Multiple options available for dietary restrictions*                                                                                                          |
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 #### **February 8**
 
-|       |                     |
-|-------|---------------------|
-| 9:00  | Welcome             |
-| 9:15  | Breakout group work |
-| 12:30 | Lunch               |
-| 1:30  | Breakout group work |
-| 5:00  | Closing             |
-
-*A more detailed agenda will be shared closer to the meeting*
-
-------------------------------------------------------------------------
-
-# Registration
-
-The Summit registration fee is \$225.
-
-Students & Early Career Researchers can purchase a discounted registration at \$175.
-
-*Registration fees will be waived for up to 60 participants that are selected to receive funding.*
+|       |                                |
+|-------|--------------------------------|
+| 9:00  | Day 1 recap & group assignment |
+| 9:15  | Breakout group work            |
+| 12:30 | Lunch                          |
+| 1:30  | Breakout group work            |
+| 5:00  | Closing                        |
 
 ------------------------------------------------------------------------
 
@@ -70,7 +98,6 @@ Students & Early Career Researchers can purchase a discounted registration at \$
 The Summit will take place at the [Cabrillo Arts Pavilion](https://cabrillopavilion.santabarbaraca.gov/), situated adjacent to the beach.
 
 The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-monte-hotel/sbars) is directly across the street from the Pavilion and will be the most convenient hotel for attendees. There are additional hotels within walking distance from the Pavilion.
-
 
 ------------------------------------------------------------------------
 
