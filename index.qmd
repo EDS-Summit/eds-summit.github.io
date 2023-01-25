@@ -37,7 +37,7 @@ Participant attendance is not limited by sector, discipline, background, or care
 +---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 9:00    | **Welcome** (Ben Halpern)                                                                                                                                                              |
 +---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9:15    | **Panel: Entryways to Environmental Data Science** \                                                                                                                                   |
+| 9:15    | **Panel: Entryways to Environmental Data Science**\                                                                                                                                    |
 |         | Noam Ross, Dorris Scott, Wendy Guan & Leah Wasser                                                                                                                                      |
 |         |                                                                                                                                                                                        |
 |         | Moderated by Dawn Wright                                                                                                                                                               |
@@ -85,25 +85,25 @@ Participant attendance is not limited by sector, discipline, background, or care
 
 #### **February 8**
 
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| 8:30    | **Breakfast -** *Enjoy a light continental breakfast to start the day*                                                                          |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9:00    | **Welcome to Day 2** (Ben Halpern)                                                                                                              |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9:30    | **Breakout group work**                                                                                                                         |
-|         |                                                                                                                                                 |
-|         | *Participants will self-select ideas to work on in small groups. There will be opportunity to contribute to multiple ideas throughout the day.* |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| 12:30   | **Lunch**                                                                                                                                       |
-|         |                                                                                                                                                 |
-|         | *Provided on site - multiple options for dietary restrictions*                                                                                  |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1:30    | **Breakout group work**                                                                                                                         |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4:00    | **Group Presentations**                                                                                                                         |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5:00    | **Closing** (Ben Halpern)                                                                                                                       |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------+
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8:30     | **Breakfast -** *Enjoy a light continental breakfast to start the day*                                                                          |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9:00     | **Welcome to Day 2** (Ben Halpern)                                                                                                              |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9:30     | **Breakout group work**                                                                                                                         |
+|          |                                                                                                                                                 |
+|          | *Participants will self-select ideas to work on in small groups. There will be opportunity to contribute to multiple ideas throughout the day.* |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12:30    | **Lunch**                                                                                                                                       |
+|          |                                                                                                                                                 |
+|          | *Provided on site - multiple options for dietary restrictions*                                                                                  |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1:30     | **Breakout group work**                                                                                                                         |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4:00     | **Group Presentations**                                                                                                                         |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5:00     | **Closing** (Ben Halpern)                                                                                                                       |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
@@ -115,11 +115,15 @@ The Summit will take place at the [Cabrillo Arts Pavilion](https://cabrillopavil
 
 The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-monte-hotel/sbars) is directly across the street from the Pavilion and will be the most convenient hotel for attendees. There are additional hotels within walking distance from the Pavilion.
 
+### Event Parking
+
+If you are not staying at the Mar Monte Hotel, there is ample parking in [city parking lots](https://goo.gl/maps/6iihTuXCtmYxbrEz9) next to the Cabrillo Pavilion. **Parking at these waterfront lots costs \$2.50/hour or \$15 for the day**. There is free parking within a short walking distance along Cabrillo boulevard, near the [East Beach volleyball courts](https://goo.gl/maps/YoLd2nJwcmH4cqhy7) and near [Dwight Murphy Field](https://goo.gl/maps/y82sUHe4TAHgDcLp9). \
+
 ------------------------------------------------------------------------
 
 **Steering Committee**
 
-[Ben Halpern](https://www.nceas.ucsb.edu/about-us/our-people) \| [Elizabeth Wolkovich](https://biodiversity.ubc.ca/people/faculty/elizabeth-m-wolkovich) \| [Noam Ross](https://www.noamross.net/) \| [Wendy Guan](https://scholar.harvard.edu/wendy-guan/home) \| [Amanda Whitmire](https://library.stanford.edu/people/thalassa) \| [Susan Shingledecker](https://www.esipfed.org/about/staff/susan-shingledecker) \| [Dawn Wright](https://dusk.geo.orst.edu/index.html) \| [Dorris Scott](https://dscott.netlify.app/) \| [Stephanie Carroll](https://igp.arizona.edu/person/stephanie-russo-carroll-drph-mph) \| [Leah Wasser](https://www.leahwasser.com/)
+[Ben Halpern](https://www.nceas.ucsb.edu/about-us/our-people) \| [Elizabeth Wolkovich](https://biodiversity.ubc.ca/people/faculty/elizabeth-m-wolkovich) \| [Noam Ross](https://www.noamross.net/) \| [Wendy Guan](https://scholar.harvard.edu/wendy-guan/home) \| [Amanda Whitmire](https://library.stanford.edu/people/thalassa) \| [Susan Shingledecker](https://www.esipfed.org/about/staff/susan-shingledecker) \| [Dawn Wright](https://dusk.geo.orst.edu/index.html) \| [Dorris Scott](https://dscott.netlify.app/) \| [Leah Wasser](https://www.leahwasser.com/)
 
 ------------------------------------------------------------------------
 
