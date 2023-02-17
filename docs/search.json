@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "posts/2023-02-17-testing/index.html",
+    "href": "posts/2023-02-17-testing/index.html",
+    "title": "My First Post",
+    "section": "",
+    "text": "This is a test to be changed"
+  },
+  {
+    "objectID": "blog_listing.html",
+    "href": "blog_listing.html",
+    "title": "EDS Summit Blog posts",
+    "section": "",
+    "text": "My First Post\n\n\n\n\n\n\n\nnews\n\n\n\n\ntesting the blog feature\n\n\n\n\n\n\nFeb 17, 2023\n\n\nJulien Brun\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Environmental Data Science Summit",
