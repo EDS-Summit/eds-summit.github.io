@@ -16,7 +16,6 @@ The goals of this annual Summit are to build community and foster collaboration 
 2. [Clone](https://nceas.github.io/scicomp-workshop-collaborative-coding/rstudio.html#cloning-a-repository) your fork (not this repository) using RStudio
 3. Create a new [branch](https://nceas.github.io/scicomp-workshop-collaborative-coding/branches.html#create-a-branch)
 4. Add your Blog Post (See also https://quarto.org/docs/websites/website-blog.html)
-    Send a pull request.
 5. [Commit and push](https://nceas.github.io/scicomp-workshop-collaborative-coding/rstudio.html#adding-our-script-to-the-next-commit) your changes
 6. Open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
