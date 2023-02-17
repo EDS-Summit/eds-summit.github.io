@@ -7,8 +7,8 @@ categories:
    - news
 ---
 
-This is a test to be changed
+## We have a blog!
 
-```{r fig.align='center', echo=FALSE}
+```{r fig.align='center', echo=FALSE, fig.alt="View from the Meeting Room"}
 knitr::include_graphics("edss_view.JPG")
 ```
