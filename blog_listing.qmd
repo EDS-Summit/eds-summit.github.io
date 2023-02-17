@@ -1,0 +1,8 @@
+---
+title: "EDS Summit Blog posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---

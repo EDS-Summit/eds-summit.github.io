@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: blog_listing.qmd
+        text: EDSS Blog
 
 format:
   html:
