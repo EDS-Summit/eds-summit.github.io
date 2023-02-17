@@ -10,6 +10,9 @@ website:
         text: Home
       - href: blog_listing.qmd
         text: EDSS Blog
+    right: 
+      - icon: github
+        href: https://github.com/EDS-Summit/eds-summit.github.io
 
 format:
   html:

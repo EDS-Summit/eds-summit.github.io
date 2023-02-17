@@ -1,10 +1,6 @@
 ---
 title: ""
 categories: true
-links:
-  - icon: github
-    text: Github
-    href: https://github.com/EDS-Summit/eds-summit.github.io
 ---
 
 ![](img/eds-banner-date-location.jpg){fig-align="center"}
