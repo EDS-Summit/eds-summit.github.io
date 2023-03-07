@@ -1,5 +1,5 @@
 ---
-title: "kickstarting a community of practice at the Environmental Data Science Summit"
+title: "Kickstarting a community of practice at the Environmental Data Science Summit"
 description: "Participant's view"
 author: "Ruth Oliver"
 date: "03/07/2023"

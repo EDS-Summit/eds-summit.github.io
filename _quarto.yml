@@ -1,11 +1,7 @@
 project:
   type: website
-  execute-dir: project
   output-dir: docs
   
-execute:
-  freeze: auto
-
 website:
   title: "Environmental Data Science Summit"
   navbar:
