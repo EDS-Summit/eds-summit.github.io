@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-       - href: blog_listing.qmd
+      - href: blog_listing.qmd
         text: EDSS Blog
     right: 
       - icon: github
