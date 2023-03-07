@@ -3,6 +3,7 @@ title: "Kickstarting a community of practice at the Environmental Data Science S
 description: "Participant's view"
 author: "Ruth Oliver"
 date: "03/07/2023"
+image: "edss_view.JPG"
 categories:
    - news
 ---
@@ -11,10 +12,10 @@ Despite pandemic delays, about 100 participants gathered in Santa Barbara to kic
 
 Taking an "unconference" approach, we quickly started brainstorming how we could make this vision a reality by promoting diversity, equity, inclusivity, and justice within environmental data science. It was extremely energizing to see the breadth and ambition of ideas brought forward and the quick progress groups were able to make.
 
-```{r fig.align='center', echo=FALSE, fig.alt="View from the Meeting Room"}
-knitr::include_graphics("edss_view.JPG")
-```
-
 With lots of buzz surrounding the recent release of ChatGPT, a group of us were excited to talk about the ways that our community can proactively engage and explore the implications of generative AI more broadly for DEIJ in environmental data science. With perspectives from computer science, ecology, earth science, and education, our discussions were a fun mix of the deeply esoteric (what is the role of a data scientist after all?) and silly (now, what does ChatGPT have to say about that?). Keep an eye for a commentary we're working on opening the conversation with the broader environmental data science community about responsible engagement with generative AI tech in our research and teaching. We're hoping this is just a starting place and empowers a larger dialogue!
 
 In my opinion, the first Summit was a great success, can't wait for next year's!
+
+```{r fig.align='center', echo=FALSE, fig.cap="Participants enjoyed views of the Pacific Ocean during the Summit", fig.alt="Participants enjoyed views of the Pacific Ocean during the Summit, credits: Dawn Wright"}
+knitr::include_graphics("edss_view.JPG")
+```
