@@ -1,0 +1,22 @@
+---
+title: "My First Post"
+description: "testing the blog feature"
+author: "Ruth Oliver"
+date: "03/07/2023"
+categories:
+   - news
+---
+
+## We have a blog!
+
+```{r fig.align='center', echo=FALSE, fig.alt="View from the Meeting Room"}
+knitr::include_graphics("edss_view.JPG")
+```
+
+Despite pandemic delays, about 100 participants gathered in Santa Barbara to kick off the inaugural Environmental Data Science Summit hosted by NCEAS. What struck me most, both in the two days we shared together and beyond, was how empowering it was to come together as a community. After years of limited in-person meetings, it was exciting to connect with familiar faces and especially make new acquaintances. But the empowerment I felt went beyond simply returning to old norms of gathering in person, this group was unique. The voices in the room represented a new, more diverse environmental data science community. It was personally inspiring to see what a future for our community could be.
+
+Taking an "unconference" approach, we quickly started brainstorming how we could make this vision a reality by promoting diversity, equity, inclusivity, and justice within environmental data science. It was extremely energizing to see the breadth and ambition of ideas brought forward and the quick progress groups were able to make.
+
+With lots of buzz surrounding the recent release of ChatGPT, a group of us were excited to talk about the ways that our community can proactively engage and explore the implications of generative AI more broadly for DEIJ in environmental data science. With perspectives from computer science, ecology, earth science, and education, our discussions were a fun mix of the deeply esoteric (what is the role of a data scientist after all?) and silly (now, what does ChatGPT have to say about that?). Keep an eye for a commentary we're working on opening the conversation with the broader environmental data science community about responsible engagement with generative AI tech in our research and teaching. We're hoping this is just a starting place and empowers a larger dialogue!
+
+In my opinion, the first Summit was a great success, can't wait for next year's!
