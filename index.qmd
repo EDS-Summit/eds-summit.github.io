@@ -9,8 +9,6 @@ categories: true
 
 Hosted by the [**National Center for Ecological Analysis and Synthesis**](https://www.nceas.ucsb.edu/)
 
-## [Click here to register for the Summit!](https://na.eventscloud.com/776658)
-
 ------------------------------------------------------------------------
 
 Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to investigating and answering environmental questions with modern data science tools. The field is broad, diverse, and expanding. This Summit aims to bring together all types of environmental data scientists to lay the foundation for a more cohesive and collaborative transdisciplinary community.
