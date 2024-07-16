@@ -4,7 +4,7 @@ title: ""
 
 ![](img/eds-banner-date-location.jpg){fig-align="center"}
 
-# **February 6 & 7, 2024 \| Santa Barbara, CA**
+# **February 4-6, 2025 \| Santa Barbara, CA**
 
 Hosted by the [**National Center for Ecological Analysis and Synthesis**](https://www.nceas.ucsb.edu/)
 
@@ -12,13 +12,13 @@ Hosted by the [**National Center for Ecological Analysis and Synthesis**](https:
 
 Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to investigating and answering environmental questions with modern data science tools. The field is broad, diverse, and expanding. This Summit aims to bring together all types of environmental data scientists to lay the foundation for a more cohesive and collaborative transdisciplinary community.
 
-The goals of the Summit are to **build community** and **foster collaboration** within the Environmental Data Science community. This year's theme is **Communicating and Translating environmental data**.
+The goals of the Summit are to **build community** and **foster collaboration** within the Environmental Data Science community. This year's theme is **The Future of AI in Conservation & Management**.
 
 ------------------------------------------------------------------------
 
 # Participation
 
-**Applications are closed**.
+**Applications will open in August**.
 
 Participation is limited to 100 attendees, with an application required. We are able to provide funding for up to 60 participants. Funding will cover travel to Santa Barbara, lodging, and the Summit registration fee. In order to attend you must first apply. Applications will be used both to select participation and award funding.
 
@@ -28,90 +28,7 @@ Participant attendance is not limited by sector, discipline, background, or care
 
 # Agenda
 
-#### **February 6**
-
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 8:15    | **Registration\                                                                                                                                                                                   |
-|         | ***Check in at the lobby of the Cabrillo Pavilion*                                                                                                                                                |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 8:30    | **Breakfast, Get to Know & Welcome\                                                                                                                                                               |
-|         | ***Please be on time to enjoy a light continental breakfast to start the day and get to know your tablemates through discussion prompts*                                                          |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9:15    | **Keynote 1** (Scott St. George)\                                                                                                                                                                 |
-|         | *Observations of the future: What the insurance and risk management industries are working to understand about our changing environment*                                                          |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9:45    | **Keynote 2** (Somayeh Dodge)\                                                                                                                                                                    |
-|         | *Maps in Motion: Visual Knowledge Discovery in Movement Ecology*                                                                                                                                  |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 10:15   | **Coffee break**                                                                                                                                                                                  |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 10:35   | **Instructions for the day** (Ben Halpern)                                                                                                                                                        |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 10:45   | **Ideation Session**                                                                                                                                                                              |
-|         |                                                                                                                                                                                                   |
-|         | Facilitated brainstorming to lay the groundwork for small group working sessions                                                                                                                  |
-|         |                                                                                                                                                                                                   |
-|         | Prompts:                                                                                                                                                                                          |
-|         |                                                                                                                                                                                                   |
-|         | -   What are you interested in learning, building or planning during the Summit, over the next month and/or over the next year related to communicating and translating environmental data?       |
-|         |                                                                                                                                                                                                   |
-|         | -   What is a challenge or barrier that you see in how environmental data are communicated or translated, and what is a new or different approach that we need to take to address that challenge? |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 11:30   | **Poster & Flash Talk Prep**                                                                                                                                                                      |
-|         |                                                                                                                                                                                                   |
-|         | In your group, create a minimalist poster that communicates your idea and prep a 1 minute flash talk.  Each group has 1 minute to present their idea to the group.\                               |
-|         | During lunch, everyone explore the posters and think about what they want to work on.                                                                                                             |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 12:30   | **Lunch\                                                                                                                                                                                          |
-|         | ***Provided on site - multiple options for dietary restrictions*                                                                                                                                  |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1:30    | **Instructions and Next Steps** (Ben Halpern)                                                                                                                                                     |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1:35    | **Flash Talks**                                                                                                                                                                                   |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2:30    | **Voting\                                                                                                                                                                                         |
-|         | ***Review posters and place voting dots*                                                                                                                                                          |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2:45    | **Coffee Break**                                                                                                                                                                                  |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3:00    | **Breakout group work**                                                                                                                                                                           |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4:50    | **Day 1 Wrap Up (Ben Halpern)**                                                                                                                                                                   |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5:00    | **Sunset cocktail hour**                                                                                                                                                                          |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6:00    | **Fajita Dinner\                                                                                                                                                                                  |
-|         | ***Multiple options available for dietary restrictions*                                                                                                                                           |
-+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-#### **February 7**
-
-+------------+--------------------------------------------------------------------------------------+
-| 8:30       | **Breakfast**                                                                        |
-+------------+--------------------------------------------------------------------------------------+
-| 9:00       | Welcome to Day 2 (Ben Halpern)                                                       |
-+------------+--------------------------------------------------------------------------------------+
-| 9:05       | **Keynote 3** (Clinton Johnson)\                                                     |
-|            | *Toward an Equitable and Just Geography*                                             |
-+------------+--------------------------------------------------------------------------------------+
-| 9:35       | **Keynote 4** (Jamal Watkins)\                                                       |
-|            | *Where You Live Matters: How place and data reveal truths about racialized outcomes* |
-+------------+--------------------------------------------------------------------------------------+
-| 10:15      | Coffee Break                                                                         |
-+------------+--------------------------------------------------------------------------------------+
-| 10:30      | **Breakout group work**                                                              |
-+------------+--------------------------------------------------------------------------------------+
-| 12:15      | **Lunch\                                                                             |
-|            | ***Provided on site - multiple options for dietary restrictions*                     |
-+------------+--------------------------------------------------------------------------------------+
-| 1:15       | **Continued breakout group work**                                                    |
-+------------+--------------------------------------------------------------------------------------+
-| 3:15       | **Coffee Break**                                                                     |
-+------------+--------------------------------------------------------------------------------------+
-| 3:30       | **Group Presentations**                                                              |
-+------------+--------------------------------------------------------------------------------------+
-| 4:30       | **Closing** (Ben Halpern)                                                            |
-+------------+--------------------------------------------------------------------------------------+
+Coming soon...
 
 ------------------------------------------------------------------------
 
