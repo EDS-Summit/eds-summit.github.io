@@ -1,1 +1,1 @@
-Sitemap: https://github.com/EDS-Summit/eds-summit.github.io/sitemap.xml
+Sitemap: https://EDS-Summit.github.io/eds-summit.github.io/sitemap.xml
