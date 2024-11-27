@@ -3,7 +3,6 @@ on:
   push:
     branches: 
       - main
-      - action-setup
 
 name: Quarto Publish
 
