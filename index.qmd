@@ -4,7 +4,7 @@ title: ""
 
 ![](img/eds-banner-date-location.jpg){fig-align="center"}
 
-# **February 4-6, 2025 \| Santa Barbara, CA**
+# **January 27-29,  2026 \| Santa Barbara, CA**
 
 Hosted by the [**National Center for Ecological Analysis and Synthesis**](https://www.nceas.ucsb.edu/)
 
@@ -12,13 +12,13 @@ Hosted by the [**National Center for Ecological Analysis and Synthesis**](https:
 
 Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to investigating and answering environmental questions with modern data science tools. The field is broad, diverse, and expanding. This Summit aims to bring together all types of environmental data scientists to lay the foundation for a more cohesive and collaborative transdisciplinary community.
 
-The goals of the Summit are to **build community** and **foster collaboration** within the Environmental Data Science community. This year's theme is **The Future of AI in Conservation & Management**. What are the opportunities and risks of using AI to inform (or transform) our approach to conservation and management, in particular with respect to new and different tools, the ethics connected with using AI, and future applications and innovations?
+The goals of the Summit are to **build community** and **foster collaboration** within the Environmental Data Science community. This year's theme is **Turning Data into Action:** How can we bridge the gap between environmental data science and real-world applications, especially in support of policy, management, and community engagement?
 
 ------------------------------------------------------------------------
 
 # Participation
 
-**The application window has closed.**
+Applications are now open. **Please fill out the [application materials](https://docs.google.com/forms/d/e/1FAIpQLSeqCIwHpKXzBhhhy7X0spjNHEHM9_nyXNJz-F_JW1pwC2u3SQ/viewform) by October 8, 2025**
 
 Participation is limited to 100 attendees, with an application required. We are able to provide funding for up to 60 participants. Funding will cover travel to Santa Barbara, lodging, and the Summit registration fee. In order to attend you must first apply. Applications will be used both to select participation and award funding.
 
@@ -28,7 +28,9 @@ Participant attendance is not limited by sector, discipline, background, or care
 
 # Agenda
 
-#### **Day 1 - February 4**
+*Coming soon*
+
+<!-- #### **Day 1 - February 4**
 
 +---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 8:15    | Registration\                                                                                                                                                                                                                                            |
@@ -75,39 +77,39 @@ Participant attendance is not limited by sector, discipline, background, or care
 
 #### **Day 2 - February 5**
 
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 8:30   | **Breakfast**                                                                                      |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 9:00   | **Welcome to Day 2**                                                                               |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 9:05   | **Keynote Speaker - Kakani Katija,** Principal Engineer, Monterey Bay Aquarium Research Institute  |        |
-|        |                                                                                                    |        |
-|        | **Talk Title:** How to discover all life in the ocean?                                             |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 9:50   | Day 2 Instructions                                                                                 |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 10:00  | Coffee Break                                                                                       |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 10:15  | **Midway Group Presentations**                                                                     |        |
-|        |                                                                                                    |        |
-|        | Present initial ideas, re-evaluate, consider adding ideas                                          |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 12:15  | **Lunch**                                                                                          |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 1:15   | **Breakout group work**                                                                            |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 3:15   | **Coffee Break**                                                                                   |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 3:45   | Breakout group work continued                                                                      |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 4:30   | **Day 2 Wrap Up**                                                                                  |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 4:45   | Free time - explore the area                                                                       |        |
-|        |                                                                                                    |        |
-|        | *(the bar will be open at 5:00pm)*                                                                 |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
-| 6:00   | **Dinner**                                                                                         |        |
-+--------+----------------------------------------------------------------------------------------------------+--------+
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 8:30   | **Breakfast**                                                                                     |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 9:00   | **Welcome to Day 2**                                                                              |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 9:05   | **Keynote Speaker - Kakani Katija,** Principal Engineer, Monterey Bay Aquarium Research Institute |        |
+|        |                                                                                                   |        |
+|        | **Talk Title:** How to discover all life in the ocean?                                            |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 9:50   | Day 2 Instructions                                                                                |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 10:00  | Coffee Break                                                                                      |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 10:15  | **Midway Group Presentations**                                                                    |        |
+|        |                                                                                                   |        |
+|        | Present initial ideas, re-evaluate, consider adding ideas                                         |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 12:15  | **Lunch**                                                                                         |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 1:15   | **Breakout group work**                                                                           |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 3:15   | **Coffee Break**                                                                                  |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 3:45   | Breakout group work continued                                                                     |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 4:30   | **Day 2 Wrap Up**                                                                                 |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 4:45   | Free time - explore the area                                                                      |        |
+|        |                                                                                                   |        |
+|        | *(the bar will be open at 5:00pm)*                                                                |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
+| 6:00   | **Dinner**                                                                                        |        |
++--------+---------------------------------------------------------------------------------------------------+--------+
 
 #### **Day 3 - February 6**
 
@@ -143,7 +145,7 @@ The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-mon
 
 ### Event Parking
 
-If you are not staying at the Mar Monte Hotel, there is ample parking in [city parking lots](https://goo.gl/maps/6iihTuXCtmYxbrEz9) next to the Cabrillo Pavilion. **Parking at these waterfront lots costs \$3.00/hour or \$18 for the day**. There is free parking within a short walking distance along Cabrillo boulevard, near the [East Beach volleyball courts](https://goo.gl/maps/YoLd2nJwcmH4cqhy7) and near [Dwight Murphy Field](https://goo.gl/maps/y82sUHe4TAHgDcLp9). \
+If you are not staying at the Mar Monte Hotel, there is ample parking in [city parking lots](https://goo.gl/maps/6iihTuXCtmYxbrEz9) next to the Cabrillo Pavilion. **Parking at these waterfront lots costs \$3.00/hour or \$18 for the day**. There is free parking within a short walking distance along Cabrillo boulevard, near the [East Beach volleyball courts](https://goo.gl/maps/YoLd2nJwcmH4cqhy7) and near [Dwight Murphy Field](https://goo.gl/maps/y82sUHe4TAHgDcLp9). \ -->
 
 ------------------------------------------------------------------------
 
