@@ -4,7 +4,7 @@ title: ""
 
 ![](img/eds-banner-date-location.jpg){fig-align="center"}
 
-# **January 27-29,  2026 \| Santa Barbara, CA**
+# **January 27-29, 2026 \| Santa Barbara, CA**
 
 Hosted by the [**National Center for Ecological Analysis and Synthesis**](https://www.nceas.ucsb.edu/)
 
@@ -30,6 +30,7 @@ Participant attendance is not limited by sector, discipline, background, or care
 
 *Coming soon*
 
+```{=html}
 <!-- #### **Day 1 - February 4**
 
 +---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -146,6 +147,7 @@ The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-mon
 ### Event Parking
 
 If you are not staying at the Mar Monte Hotel, there is ample parking in [city parking lots](https://goo.gl/maps/6iihTuXCtmYxbrEz9) next to the Cabrillo Pavilion. **Parking at these waterfront lots costs \$3.00/hour or \$18 for the day**. There is free parking within a short walking distance along Cabrillo boulevard, near the [East Beach volleyball courts](https://goo.gl/maps/YoLd2nJwcmH4cqhy7) and near [Dwight Murphy Field](https://goo.gl/maps/y82sUHe4TAHgDcLp9). \ -->
+```
 
 ------------------------------------------------------------------------
 
